@@ -1,8 +1,7 @@
 ### Final Project 
-
-### BATMAN: Behind the Cowl
-
 ###### Front-End Web Development @ General Assembly
+
+#### BATMAN: Behind the Cowl
 
 Featuring all the actors who have played Batman on the big screen, as of 2017.
 
