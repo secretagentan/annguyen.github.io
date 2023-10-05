@@ -1,7 +1,11 @@
-## BATMAN: Behind the Cowl
-### Student Project - Final Presentation
+### BATMAN: Behind the Cowl
+
+#### Final Student Project
+
 ###### Front-End Web Development class @ General Assembly
 
-Tech: HTML, CSS, JavaScript. Hosted on GitHub Pages
-- [secretagentan.github.io](https://secretagentan.github.io)
+- Languages: HTML, CSS, JavaScript
+
+- Hosted on [GitHub Pages](https://secretagentan.github.io)
+
 - [original repo](https://github.com/secretagentan/fewd-final-project)
