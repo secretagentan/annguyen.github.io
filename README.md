@@ -1,11 +1,13 @@
+### Final Project 
+
 ### BATMAN: Behind the Cowl
 
-#### Final Student Project
+###### Front-End Web Development @ General Assembly
 
-###### Front-End Web Development class @ General Assembly
+Featuring all the actors who have played Batman on the big screen, as of 2017.
 
 - Languages: HTML, CSS, JavaScript
 
 - Hosted on [GitHub Pages](https://secretagentan.github.io)
 
-- [original repo](https://github.com/secretagentan/fewd-final-project)
+- [original repository](https://github.com/secretagentan/fewd-final-project)
